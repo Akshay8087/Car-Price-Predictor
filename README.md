@@ -70,16 +70,20 @@ car_price_predictor/
 
 ---
 
-## 📈 Dataset Info
+## 📊 Dataset Info
 
-- **Source**: Scraped from [Quikr.com](https://www.quikr.com)
-- **Features used**:
-  - Company
-  - Model
-  - Year of Purchase
-  - Fuel Type
-  - Kilometers Driven
-  - Price
+
+| Feature             | Description                                         |
+|---------------------|-----------------------------------------------------|
+| **Company**         | Name of the car manufacturing company               |
+| **Model**           | Specific car model name                             |
+| **Year of Purchase**| The year the car was originally purchased           |
+| **Fuel Type**       | Type of fuel the car uses (e.g., Petrol, Diesel)    |
+| **Kilometers Driven**| Total kilometers the car has been driven           |
+| **Price**           | Listed selling price of the car (in INR)            |
+
+> **Source**: Scraped from [Quikr.com](https://www.quikr.com)
+
 
 ---
 
