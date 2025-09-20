@@ -47,7 +47,7 @@ This project aims to estimate the resale price of a used car using a machine lea
 ---
 
 ## 🗃️ Project Structure
-```bash
+```bash 
 car_price_predictor/
 ├── application.py
 ├── requirements.txt
