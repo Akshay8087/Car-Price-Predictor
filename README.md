@@ -1,5 +1,5 @@
 # 🚗 Car Price Predictor
-
+   
 ![Image](https://github.com/user-attachments/assets/b5414fd6-c37e-4961-8c5d-3a00e1e0d520)
 
 A simple yet effective machine learning web app that predicts the resale price of used cars based on user input like brand, model, fuel type, kilometers driven, and more. This project combines data preprocessing, regression modeling, and a user-friendly Flask web interface to deliver instant car price predictions.
